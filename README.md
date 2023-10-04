@@ -5,12 +5,12 @@ Please be advised that, in compliance with project confidentiality requirements,
 The manager of a medium-sized company has identified a decline in team performance, prompting the initiation of a data-driven investigation. The analysis has revealed that absenteeism among team members is a significant contributing factor to this performance deterioration. Further in-depth data analysis is imperative to unveil patterns, trends, and underlying causes of absenteeism, with the ultimate goal of developing data-driven strategies and interventions aimed at its prevention and mitigation.
 
 # Dataset
-• Human Resources Absenteeism dataset (Absenteeism table and Employee_info table)
+- Human Resources Absenteeism dataset (Absenteeism table and Employee_info table)
 
 # Expected Outcomes
-• Analyze Absenteeism Patterns.
+- Analyze Absenteeism Patterns.
 
-• Uncover Absenteeism Determinants.
+- Uncover Absenteeism Determinants.
 
 • Develop a Data Visualization Dashboard
 • Deliver Insights to Stakeholders
