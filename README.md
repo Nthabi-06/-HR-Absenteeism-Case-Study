@@ -12,8 +12,12 @@ The manager of a medium-sized company has identified a decline in team performan
 - Uncover Absenteeism Determinants.
 - Develop a Data Visualization Dashboard
 - Deliver Insights to Stakeholders
+  
 ![Screenshot (328)](https://github.com/Nthabi-06/HR-Absenteeism-Case-Study/assets/128138564/096811df-63dd-4107-b8e5-7bf459ba1024)
 
+# Tools Used
+- Power BI
+- DAX
 
 
 
