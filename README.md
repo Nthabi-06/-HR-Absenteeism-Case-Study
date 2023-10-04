@@ -9,10 +9,10 @@ The manager of a medium-sized company has identified a decline in team performan
 
 # Expected Outcomes
 - Analyze Absenteeism Patterns.
-
 - Uncover Absenteeism Determinants.
+- Develop a Data Visualization Dashboard
+- Deliver Insights to Stakeholders
 
-• Develop a Data Visualization Dashboard
-• Deliver Insights to Stakeholders
+
 
 
