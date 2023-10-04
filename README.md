@@ -22,6 +22,9 @@ The manager of a medium-sized company has identified a decline in team performan
 # The project was approached through the following systematic steps 
 ![Screenshot (329)](https://github.com/Nthabi-06/HR-Absenteeism-Case-Study/assets/128138564/36862df4-90f8-4d7a-9c55-6ed59517f0d7)
 
+# Output
+The dashboard was meticulously designed and developed by my team.
+
 
 
 
