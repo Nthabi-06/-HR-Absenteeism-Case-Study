@@ -25,6 +25,7 @@ The manager of a medium-sized company has identified a decline in team performan
 # Output
 The dashboard was meticulously designed and developed by my team.
 
+![CASE STUDY 2](https://github.com/Nthabi-06/HR-Absenteeism-Case-Study/assets/128138564/2487b689-158c-451d-812b-532b52eeaacc)
 
 
 
