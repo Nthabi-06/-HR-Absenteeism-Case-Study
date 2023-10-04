@@ -8,8 +8,8 @@ The manager of a medium-sized company has identified a decline in team performan
 - Human Resources Absenteeism dataset (Absenteeism table and Employee_info table)
 
 # Expected Outcomes
-- Analyze Absenteeism Patterns.
-- Uncover Absenteeism Determinants.
+- Analyze Absenteeism Patterns
+- Uncover Absenteeism Determinants
 - Develop a Data Visualization Dashboard
 - Deliver Insights to Stakeholders
   
