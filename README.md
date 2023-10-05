@@ -40,6 +40,8 @@ The dashboard was meticulously designed and developed by my team.
 - Advocate for moderation in alcohol consumption and discourage excessive drinking.
 
 # Acknowledgements
+I would like to thank my team members for their contributions:
+
 - Mosibudi Sehata
 - Moses Bokaba
 - Nnete Mogane
