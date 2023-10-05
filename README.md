@@ -39,6 +39,10 @@ The dashboard was meticulously designed and developed by my team.
 - Organize events promoting healthier lifestyles and redesign the office environment to encourage wellness-oriented choices.
 - Advocate for moderation in alcohol consumption and discourage excessive drinking.
 
+# My contributions
+- Create visuals on the dashboard
+- Create new features using DAX
+
 # Acknowledgements
 I would like to thank my team members for their contributions:
 
