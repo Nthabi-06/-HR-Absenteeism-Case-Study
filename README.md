@@ -27,5 +27,18 @@ The dashboard was meticulously designed and developed by my team.
 
 ![CASE STUDY 2](https://github.com/Nthabi-06/HR-Absenteeism-Case-Study/assets/128138564/2487b689-158c-451d-812b-532b52eeaacc)
 
+# Conclusions
 
+    Spring had the most absences
+    Spring had the highest workload
+    5 employees (of 36) make up half of all absences
+    Medical reasons were by far the most common cause of absences
+    Drinkers took the most unjustified leave (70%)
+    Reason 15 (medical reason) for absenteeism only happened on Mondays and Fridays
+    Employees with 4 children took more leave than employees with fewer children
+    Obese employees made up only a quarter of employees but a third of all medical leave
+
+
+# Recommendations
+# Acknowledgements
 
