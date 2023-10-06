@@ -43,10 +43,5 @@ The dashboard was meticulously designed and developed by my team.
 - Create visuals on the dashboard
 - Create new features using DAX
 
-# Acknowledgements
-I would like to thank my team members for their contributions:
 
-- Mosibudi Sehata
-- Moses Bokaba
-- Nnete Mogane
 
