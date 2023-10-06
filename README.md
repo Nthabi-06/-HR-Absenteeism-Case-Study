@@ -25,7 +25,7 @@ The manager of a medium-sized company has identified a decline in team performan
 # Output
 The dashboard was meticulously designed and developed by my team.
 
-![CASE STUDY 2](https://github.com/Nthabi-06/HR-Absenteeism-Case-Study/assets/128138564/2487b689-158c-451d-812b-532b52eeaacc)
+![Screenshot (342)](https://github.com/Nthabi-06/HR-Absenteeism-Case-Study/assets/128138564/5be332dc-edd2-4262-87fa-31441fcdb546)
 
 # Conclusions
 - Spring recorded the highest number of employee absences.
